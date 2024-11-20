@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafts/About References.md",
+                "file": "Drafts/Berrisford on EA and Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About References"
+              "title": "Berrisford on EA and Systems"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/About References.md",
+                "file": "Drafts/Berrisford on EA and Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for About References"
+              "title": "Backlinks for Berrisford on EA and Systems"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drafts/About References.md",
+                "file": "Drafts/Berrisford on EA and Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from About References"
+              "title": "Outgoing links from Berrisford on EA and Systems"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/About References.md"
+                "file": "Drafts/Berrisford on EA and Systems.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of About References"
+              "title": "Outline of Berrisford on EA and Systems"
             }
           },
           {
@@ -175,6 +175,8 @@
   },
   "active": "110cd8b7c7d089e1",
   "lastOpenFiles": [
+    "Drafts/A Paper on Complexity.md",
+    "Drafts/About References.md",
     "Media/Zimmerman - Regions version of Stacey Matrix.png",
     "Media/Zimmerman - clusters of distinction complicated and complex.png",
     "Media/Wicked versus complex.jpeg",
@@ -185,10 +187,8 @@
     "Media/Weinberg's Problem Situation Partitioning.png",
     "Media/Warfield - the displaced origin (on complexity).png",
     "Media/Ward - simplicity efficiency boundary.png",
-    "Media/vickers three judgements - graphic.jpg",
     "Media/obesity-map-full-hi-res.pdf",
     "Media",
-    "Drafts/A Paper on Complexity.md",
     "GitTest.md",
     "Drafts/Wicked Problems - Dimensions.md",
     "Drafts/What do Philosophers Get That Physicists Dont.md",
