@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafts/About References.md",
+                "file": "GitTest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About References"
+              "title": "GitTest"
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "110cd8b7c7d089e1",
   "lastOpenFiles": [
-    "Another gitest.md",
     "Drafts/About References.md",
+    "Another gitest.md",
     "Media/Zimmerman - Regions version of Stacey Matrix.png",
     "Media/Zimmerman - clusters of distinction complicated and complex.png",
     "Media/Wicked versus complex.jpeg",
